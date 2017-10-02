@@ -6,5 +6,7 @@
     <StackLayout Spacing="10" Orientation="Horizontal" HorizontalOptions="Center">
         <Label Text="Welcome to Xamarin Forms!" VerticalOptions="Center" HorizontalOptions="Center"
         Font="20" x:Name="WelcomeLabel" />
+        <Label Text="And good bye!" VerticalOptions="Center" HorizontalOptions="Center"
+        Font="20" x:Name="ByeLabel" />
     </StackLayout>
 </ContentPage>
